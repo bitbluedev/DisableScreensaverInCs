@@ -1,0 +1,2 @@
+# DisableScreensaverInCs
+Disable Screensaver
